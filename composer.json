@@ -2,6 +2,8 @@
     "name": "yiion-10/awesome",
     "description": "An awesome Laravel Package",
     "license": "MIT",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "type": "library",
     "autoload": {
         "psr-4": {
