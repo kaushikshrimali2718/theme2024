@@ -3,7 +3,6 @@
     "description": "An awesome Laravel Package",
     "license": "MIT",
     "type": "library",
-    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "Yiion10\\Awesome\\": "src/"
