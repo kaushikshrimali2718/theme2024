@@ -1,7 +1,7 @@
 {
     "name": "yiion-10/awesome",
     "description": "An awesome Laravel Package",
-    "license": "",
+    "license": "MIT",
     "type": "library",
     "minimum-stability": "stable",
     "autoload": {
